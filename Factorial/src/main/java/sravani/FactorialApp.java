@@ -13,5 +13,6 @@ public static void main(String[] args) {
 		fact=fact*i;
 	}
 	System.out.println("Factorial of "+n+" is: "+fact);
+	System.out.println("completed");
 }
 }
